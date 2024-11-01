@@ -14,7 +14,7 @@ header {
 }
 
 section {
-	background: rgb(140, 112, 171);
+	background: yellow;
 	padding-bottom: 80px;
 	padding-top: 80px;
 	display: flex;
